@@ -291,7 +291,7 @@ const messages:IMessages = {
   },
   "Backups": {
     /* Label for backup preferences */
-    val: "Backups",
+    val: "Sikkerhedskopi",
     translated: "auto",
     h: "2JCpk92cgO56Ebw/lZGjh81dIWUzHyTIthk3tbUO5SY=",
   },
