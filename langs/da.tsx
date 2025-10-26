@@ -217,8 +217,8 @@ const messages:IMessages = {
   },
   "Automatic": {
     /* Option for theme preference indicating that the system will choose between light and dark */
-    val: "AutomatiSk",
-    translated: "auto",
+    val: "Automatisk",
+    translated: true,
     h: "0YA2t1ssPk8k4xaICpB9//fM3ol0d/FeOVb6dCD0ux8=",
   },
   "Available version": {
@@ -285,14 +285,14 @@ const messages:IMessages = {
   },
   "Backup folder": {
     /* Label for application preference of which folder to use for automatic backups */
-    val: "Sikkerhedskopimappe",
-    translated: "auto",
+    val: "Sikkerhedskopi",
+    translated: true,
     h: "BLOblCLkVxAs6HObgPraktoiBEQNMNFixnzpvk7FWoU=",
   },
   "Backups": {
     /* Label for backup preferences */
-    val: "Backups",
-    translated: "auto",
+    val: "Sikkerhedskopier",
+    translated: true,
     h: "2JCpk92cgO56Ebw/lZGjh81dIWUzHyTIthk3tbUO5SY=",
   },
   "Backups enabled": {
@@ -300,7 +300,7 @@ const messages:IMessages = {
     val: "Sikkerhedskopier aktiveret",
     translated: "auto",
     h: "Y9MhMpBC7vFMEGWhaOb2cH6gqp/6lHO1R2XRniiNYes=",
-  },
+  },µ  
   "Balance": {
     val: "Balance",
     translated: true,
