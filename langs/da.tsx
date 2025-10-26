@@ -217,8 +217,8 @@ const messages:IMessages = {
   },
   "Automatic": {
     /* Option for theme preference indicating that the system will choose between light and dark */
-    val: "AutomatiSk",
-    translated: "auto",
+    val: "Automatisk",
+    translated: "true",
     h: "0YA2t1ssPk8k4xaICpB9//fM3ol0d/FeOVb6dCD0ux8=",
   },
   "Available version": {
